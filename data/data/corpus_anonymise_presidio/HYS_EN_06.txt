@@ -1,4 +1,0 @@
-<PERSON> 
-<LOCATION>
-In looking at the list of <ORGANIZATION> group of experts one sees an impressive list of good people. However it is not clear how many in the group of experts have backgrounds in engineering and most especially experience in working in operations that take place in critical infrastructure. Those who have experience in working with the technologies used to monitor and control processess governed not by the laws of data protection and privacy, but by the laws of physics and chemistry. Suggest, if they are not already in the group, inviting automation and protection enginneers, hazops professional to assist in addressing the gaps in <ORGANIZATION> coverage of critical infrastructure operations.
-<DATE_TIME>
