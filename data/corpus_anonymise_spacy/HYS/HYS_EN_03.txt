@@ -1,0 +1,4 @@
+<PERSON> 
+<LOCATION>
+I strongly support the <ORGANIZATION> initiative. A functioning single market requires that people can prove their social security rights across borders as easily as goods move across them. The current system of unverifiable PDFs and plastic cards is not fit for purpose. Two specific points: Implementation must be mandatory for all member states. A voluntary approach will lead to fragmented adoption and undermine the entire purpose of interoperability. The initiative only works if it works everywhere. Binding deadlines for implementation must be included. Without them, member states will delay indefinitely and the pass will exist on paper but not in practice. I support policy option 4, combining the EUDI wallet framework with enhanced physical documents, to ensure full coverage for all users regardless of their digital access.
+11/02/2026
