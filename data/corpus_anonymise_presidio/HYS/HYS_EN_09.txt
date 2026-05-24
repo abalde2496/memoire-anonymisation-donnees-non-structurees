@@ -1,0 +1,4 @@
+<PERSON> 
+<LOCATION>
+I am someone who own no car, and instead rents then as needed. I can confirm that some rental companies implement a "no cross-border" rule; others charge unreasonable extra for cross-border drop-offs. Until <DATE_TIME>, I could find no company at all which would allow cross-border return on vans, for any price: this is a disadvantage for those relocating from one country within the Union to another. I am very in favour of a type of regulation in the same spirit of the abolition of roaming charges in mobile communications.
+<DATE_TIME>
